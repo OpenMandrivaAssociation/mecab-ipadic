@@ -1,6 +1,6 @@
 %define version		2.7.0
-%define src_version	2.7.0-20060707
-%define release		%mkrel 20060707.2
+%define src_version	2.7.0-20070801
+%define release		%mkrel 20070801.1
 
 Name:		mecab-ipadic
 Summary:	IPA dictionary for MeCab
@@ -11,8 +11,8 @@ Group:		System/Internationalization
 URL:		http://mecab.sourceforge.jp/
 Source0:	http://prdownloads.sourceforge.jp/mecab/18371/%{name}-%{src_version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
-Requires:		mecab >= 0.93
-BuildRequires:		mecab-devel >= 0.93
+Requires:		mecab >= 0.96
+BuildRequires:		mecab-devel >= 0.96
 BuildRequires:          mecab
 %description
 IPA dictionary for MeCab.
