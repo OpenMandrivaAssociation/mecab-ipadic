@@ -10,6 +10,7 @@ License:	BSD-like
 Group:		System/Internationalization
 URL:		http://mecab.sourceforge.jp/
 Source0:	http://prdownloads.sourceforge.jp/mecab/18371/%{name}-%{src_version}.tar.bz2
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:		mecab >= 0.96
 BuildRequires:		mecab-devel >= 0.96
 BuildRequires:          mecab
