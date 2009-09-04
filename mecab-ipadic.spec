@@ -1,6 +1,6 @@
 %define version		2.7.0
 %define src_version	2.7.0-20070801
-%define release		%mkrel 20070801.1
+%define release		%mkrel 20070801.2
 
 Name:		mecab-ipadic
 Summary:	IPA dictionary for MeCab
