@@ -6,7 +6,7 @@
 Name:		mecab-ipadic
 Summary:	IPA dictionary for MeCab
 Version:	2.7.0
-Release:	20070801.3
+Release:	20070801.4
 License:	BSD-like
 Group:		System/Internationalization
 URL:		http://mecab.sourceforge.jp/
