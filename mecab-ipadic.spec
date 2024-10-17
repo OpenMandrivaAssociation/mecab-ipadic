@@ -9,7 +9,7 @@ Version:	2.7.0
 Release:	20070801.4
 License:	BSD-like
 Group:		System/Internationalization
-URL:		http://mecab.sourceforge.jp/
+URL:		https://mecab.sourceforge.jp/
 Source0:	http://prdownloads.sourceforge.jp/mecab/18371/%{name}-%{src_version}.tar.bz2
 Requires:	mecab
 BuildRequires:	mecab-devel
